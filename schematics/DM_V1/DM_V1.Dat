@@ -1,0 +1,18 @@
+Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~DM_V1.PrjPcb|ReportField=ProjectFullPath~D:\Work\WorkPortfolio\My_Projects\2012_oscilloscope\schematics\DM\DM_V1\DM_V1.PrjPcb|ReportField=Title~Bill of Materials For Project [DM_V1.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~87|ReportField=ReportTime~8:14:34 PM|ReportField=ReportDate~18/08/2012|ReportField=ReportDateTime~18/08/2012 8:14:34 PM|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~18/08/2012|ReportField=CurrentTime~8:14:32 PM|ReportField=Date~|ReportField=DocumentFullPathAndName~D:\Work\WorkPortfolio\My_Projects\2012_oscilloscope\schematics\DM\DM_V1\DM_V1_FPGA.SchDoc|ReportField=DocumentName~DM_V1_FPGA.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~17/08/2012|ReportField=Organization~|ReportField=ProjectName~DM_V1.PrjPcb|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~DM_V1.PrjPcb|ReportField=DataSourceFullPath~D:\Work\WorkPortfolio\My_Projects\2012_oscilloscope\schematics\DM\DM_V1\DM_V1.PrjPcb
+Cap Semi|Capacitor (Semiconductor SIM Model)|C1, C8, C9, C10, C11, C12, C13, C14|C0805|Cap Semi|8
+Cap Pol3|Polarized Capacitor (Surface Mount)|C2, C3, C4, C5, C6, C7, C15|C1206|Cap Pol3|7
+0.1|Ceramic Chip-capacitor 0603|C16, C17, C18, C19, C20, C21, C22, C23, C24, C25, C26, C27, C28, C29, C30, C31, C32, C33, C34, C35, C36, C37, C38|1608[0603]|CC0603-0.1MKF X7R|23
+LED|Typical RED, GREEN, YELLOW, AMBER GaAs LED|D1, D2|1608[0603]|LED2|2
+PWR2.5|Low Voltage Power Supply Connector|J1|KLD-0202|PWR2.5|1
+Header 3|Header, 3-Pin|J2|HDR1X3|Header 3|1
+Inductor Iron|Magnetic-Core Inductor|L1, L2|PCBComponent_1|Inductor Iron|2
+Header 25X2|Header, 25-Pin, Dual row|P1, P2|HDR2X25|Header 25X2|2
+Header 20X2|Header, 20-Pin, Dual row|P3|HDR2X20|Header 20X2|1
+Header 5X2H|Header, 5-Pin, Dual row, Right Angle|P4|HDR2X5H|Header 5X2H|1
+Header 10X2H|Header, 10-Pin, Dual row, Right Angle|P5|HDR2X10H|Header 10X2H|1
+Res3|Resistor|R1, R2, R3, R4, R5, R6, R7, R8, R9, R10, R11, R12, R13, R14, R15, R16, R19, R20, R21, R22, R23, R24, R25, R26, R27, R28, R29, R30, R31, R32, R33, R34|J1-0603|Res3|32
+LM26480_RTW_24|Imported|U1|SQA24A|LM26480_RTW_24|1
+XC3S400-4TQG144C|Spartan-3 1.2V FPGA, 97 User I/Os, 144-Pin TQFP, Standard Performance, Commercial Grade, Pb-Free|U2|TQG144_N|XC3S400-4TQG144C|1
+ActiveOsc5x7||U3|ACT_OSC|ActiveOsc5x7|1
+XCF02SVOG20C|XCF00S Series, Platform Flash In-System Programmable Configuration 3.3V PROM, 20-Pin TSOP, 2-Megabit, Commercial Grade, Pb-Free|U4|VOG20_N|XCF02SVOG20C|1
+74HC244D|Octal Buffer/Driver Noninverting 3-State Output|U5, U6|SOP127P1030X265-20N|74ALVC244PW|2
